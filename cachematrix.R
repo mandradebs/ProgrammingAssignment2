@@ -11,6 +11,10 @@
 ## inverse of the matrix, and "getinverse" that return the inverse) and 
 ## one attribute (the inverse of the matix).
 
+## If you can't see the code of the functions, maybe you need to click on 
+## the Expand botton in order to see the hidden code... Good Luck in your
+## own submission.
+
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
     set <- function(y) {
